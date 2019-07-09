@@ -1,0 +1,16 @@
+PODS:
+  - FFRoutes (0.1.0)
+
+DEPENDENCIES:
+  - FFRoutes (from `../`)
+
+EXTERNAL SOURCES:
+  FFRoutes:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFRoutes: eb020e917f47755710732489cbeffca7df6bbc0f
+
+PODFILE CHECKSUM: 323d18c9e04493cfcfcb6038e6747a2d5d3e6a1c
+
+COCOAPODS: 1.2.1
